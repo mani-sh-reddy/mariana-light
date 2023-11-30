@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3326da9e-d42d-4cbb-9900-73ff379358aa" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/mariana_light_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/META-INF/MANIFEST.MF" afterDir="false" />
+    <list default="true" id="3326da9e-d42d-4cbb-9900-73ff379358aa" name="Changes" comment="updated shades, yellow, green, blue, grey">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mariana-light.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mariana-light.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/theme/mariana-light.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/theme/mariana-light.theme.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,12 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701367285628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated shades, yellow, green, blue, grey">
+      <option name="closed" value="true" />
+      <created>1701370352433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701370352433</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="updated shades, yellow, green, blue, grey" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated shades, yellow, green, blue, grey" />
   </component>
 </project>
