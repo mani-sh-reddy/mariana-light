@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3326da9e-d42d-4cbb-9900-73ff379358aa" name="Changes" comment="updated shades, red, orange, teal">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/theme/mariana-light.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/theme/mariana-light.theme.json" afterDir="false" />
+    <list default="true" id="3326da9e-d42d-4cbb-9900-73ff379358aa" name="Changes" comment="updated purple shade">
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701371071911</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated purple shade">
+      <option name="closed" value="true" />
+      <created>1701371405886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701371405886</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updated purple shade">
+      <option name="closed" value="true" />
+      <created>1701371471896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701371471896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +131,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="updated shades, yellow, green, blue, grey" />
     <MESSAGE value="updated shades, red, orange, teal" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated shades, red, orange, teal" />
+    <MESSAGE value="updated purple shade" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated purple shade" />
   </component>
 </project>
