@@ -4,8 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3326da9e-d42d-4cbb-9900-73ff379358aa" name="Changes" comment="updated purple shade">
+    <list default="true" id="3326da9e-d42d-4cbb-9900-73ff379358aa" name="Changes" comment="updated version">
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBoxDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBoxFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBoxIndeterminateSelected.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBoxIndeterminateSelectedDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBoxIndeterminateSelectedFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBoxSelected.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBoxSelectedDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/checkBoxSelectedFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/radio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/radioDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/radioFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/radioSelected.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/radioSelectedDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/dark/radioSelectedFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBox.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBoxDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBoxFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBoxIndeterminateSelected.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBoxIndeterminateSelectedDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBoxIndeterminateSelectedFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBoxSelected.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBoxSelectedDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/checkBoxSelectedFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/radio.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/radioDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/radioFocused.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/radioSelected.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/radioSelectedDisabled.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/theme/icons/light/radioSelectedFocused.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mariana-light.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/theme/mariana-light.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/theme/mariana-light.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/theme/mariana-light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/theme/mariana-light.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +49,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mani-sh-reddy&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="1e2c623d-e5e9-4a5c-a055-5fed5af48cc9" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1e2c623d-e5e9-4a5c-a055-5fed5af48cc9" />
+        <option name="url" value="https://github.com/mani-sh-reddy/mariana-light.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -40,26 +91,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mani/Documents/Projects/mariana-light/resources/META-INF",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.20253164",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Plugin.mariana-light.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mani/Documents/Projects/mariana-light/resources/theme&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.20253164&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Shell Script&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/META-INF" />
       <recent name="$PROJECT_DIR$/resources/theme" />
+      <recent name="$PROJECT_DIR$/resources/theme/icons" />
+      <recent name="$PROJECT_DIR$/resources/META-INF" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/theme" />
       <recent name="$PROJECT_DIR$/resources/META-INF" />
     </key>
   </component>
@@ -123,8 +183,32 @@
       <option name="project" value="LOCAL" />
       <updated>1701371471896</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated version">
+      <option name="closed" value="true" />
+      <created>1701371518515</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701371518515</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="com.intellij.configurationType" implementationName="#org.jetbrains.idea.devkit.run.PluginConfigurationType" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -132,6 +216,7 @@
     <MESSAGE value="updated shades, yellow, green, blue, grey" />
     <MESSAGE value="updated shades, red, orange, teal" />
     <MESSAGE value="updated purple shade" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated purple shade" />
+    <MESSAGE value="updated version" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated version" />
   </component>
 </project>
